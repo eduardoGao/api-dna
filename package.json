@@ -1,0 +1,16 @@
+{
+  "name": "guros",
+  "version": "1.0.0",
+  "entry point": "index.js",
+  "description": "API to DNA Mutations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Eduardo Díaz",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
